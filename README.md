@@ -155,7 +155,7 @@ class CloudDevOpsEngineer:
 <!-- ====================== 10. WORK EXPERIENCE ====================== -->
 ### 💼 Work Experience
  
-<details open>
+<details>
 <summary><b>🟢 Cloud DevOps Engineer — Movate Technologies Pvt Ltd · 02/2023 – Present · Chennai, India</b></summary>
 <br>
   
