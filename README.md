@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sureshkumar.cloudops@gmail.com)
 
 </div>
+<br/>
 
 <!-- ====================== 3. CODE-BLOCK ABOUT ME ====================== -->
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -50,74 +51,55 @@ class CloudDevOpsEngineer:
 <!-- ====================== 4. TECH BADGES ====================== -->
 ### 🛠️ Tech Stack
  
-**💻 Programming Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+**💻 Programming Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
  
-**☁️ Cloud Provider**
- 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+**☁️ Cloud Provider** ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
  
-**🔀 SCM Tools**
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**🔀 SCM Tools** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure Repos](https://img.shields.io/badge/Azure_Repos-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
  
-**🏗️ Build / Artifact / Code Coverage**
- 
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+**🏗️ Build / Artifact / Code Coverage** ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
  
-**🔁 CI/CD Tools**
- 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+**🔁 CI/CD Tools** ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps_(Pipelines_%26_Repos_%26_Boards)-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
  
-**📦 Container Technologies**
- 
-![OpenShift](https://img.shields.io/badge/RedHat_OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+**📦 Container Technologies** ![OpenShift](https://img.shields.io/badge/RedHat_OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes_(EKS_%26_AKS)-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
  
-**🧱 Infrastructure as Code (IaC)**
- 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+**🧱 Infrastructure as Code (IaC)** ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![SaltStack](https://img.shields.io/badge/SaltStack-00EFFF?style=flat-square&logo=saltproject&logoColor=black)
  
-**📊 Monitoring & Logging**
- 
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
+**📊 Monitoring & Logging** ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white)
 ![Nagios](https://img.shields.io/badge/Nagios-000000?style=flat-square&logo=nagios&logoColor=white)
  
-**🗄️ Data & Analytics Services**
+**🗄️ Data & Analytics Services** ![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
  
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
- 
-**🖥️ Operating Systems**
- 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+**🖥️ Operating Systems** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
  
-**🎫 Ticketing Tools**
- 
-![Jira](https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+**🎫 Ticketing Tools** ![Jira](https://img.shields.io/badge/Atlassian_Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=flat-square&logo=servicenow&logoColor=white)
 ![KANA & UNA](https://img.shields.io/badge/KANA_%26_UNA-5C6BC0?style=flat-square&logo=zendesk&logoColor=white)
 ![WHMCS](https://img.shields.io/badge/WHMCS-2C2D72?style=flat-square&logo=whmcs&logoColor=white)
 
+<br/>
+
 <!-- ====================== 5 & 6. GITHUB STATS + TOP LANGS ====================== -->
+
 ### 📊 GitHub Analytics
 
 <div align="center">
@@ -195,6 +177,8 @@ class CloudDevOpsEngineer:
 - Worked with bug-tracking tool **Jira** and ticketing tool **ServiceNow**; collaborated with dev teams to debug application errors and enhance system reliability.
 </details>
 
+<br/>
+
 <!-- ====================== 11. FEATURED PROJECTS ====================== -->
 ### 🚀 Featured Projects
 
@@ -208,6 +192,7 @@ class CloudDevOpsEngineer:
 | [**Jenkins Java App Deploy**](https://github.com/skccna1998/jenkins-javaapp-deploy) | Java · Maven · JSP · Jenkins · Apache Tomcat · AWS EC2 | CI/CD pipeline across **two EC2 instances** — Jenkins polls GitHub, Maven packages a `.war`, then auto-deploys to a remote Tomcat container |
  
 </div>
+<br/>
 
 <!-- ====================== 12. ACHIEVEMENTS ====================== -->
 
@@ -224,6 +209,7 @@ class CloudDevOpsEngineer:
 | 🎓 | **RIMS Program** | Completed Networking (CCNA), Linux (RHEL) & Cloud (AWS) at KGISL IMS |
 
 </div>
+<br/>
 
 <!-- ====================== 13. EDUCATION + LEARNING + FOOTER ====================== -->
 ### 🎓 Education
@@ -235,6 +221,7 @@ class CloudDevOpsEngineer:
 | BE — Electronics & Communication (ECE) | Sasurie College of Engineering, Tiruppur | 2016 – 2020 | CGPA 6.63 / 10 |
 
 </div>
+<br/>
 
 ### 🌱 Currently Learning
 
